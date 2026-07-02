@@ -20,11 +20,9 @@ A modular, data-driven gameplay system built in <b>Unity 6</b> featuring a seaml
 </p>
 
 <p align="center">
-
-🎮 <a href="https://mjeed.itch.io/realm-shift-runner"><b>Play Online (WebGL)</b></a> •
-🎥 <a href="https://youtube.com/shorts/48PPirToAY8?feature=share"><b>Gameplay Video</b></a> •
-📄 <a href="Docs/Realm_Shift_Runner_Gameplay_Programming_Assessment.pdf"><b>Assessment Document</b></a>
-
+  🎮 <a href="https://mjeed.itch.io/realm-shift-runner"><b>Play Online (WebGL)</b></a> •
+  🎥 <a href="https://youtube.com/shorts/48PPirToAY8?feature=share"><b>Gameplay Video</b></a> •
+  📄 <a href="Docs/Realm_Shift_Runner_Gameplay_Programming_Assessment.pdf"><b>Assessment Document</b></a>
 </p>
 
 ---
