@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="Media/logo.png" alt="Realm Shift Runner Logo" width="300">
-</p>
-
 <h1 align="center">Realm Shift Runner</h1>
 
 <p align="center">
